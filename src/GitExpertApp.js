@@ -11,7 +11,7 @@ export const GitExpertApp = () => {
   //}
   return(
     <>
-        <h2>CURRICULUM JUANJO MARÍN CASTILLO</h2>
+        <h2>CURRICULUM JUANJO MARÍN CASTILLOooo</h2>
         <AddCategory setCategories={setCategories}/>
         <hr/>
        
